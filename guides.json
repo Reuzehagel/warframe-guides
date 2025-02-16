@@ -1,0 +1,23 @@
+{
+  "warframe_market": {
+    "name": "Warframe Market",
+    "url": "https://warframe.market",
+    "description": "Trade chat alternative for buying and selling items",
+    "color": "#66ccff",
+    "image_url": "https://example.com/wf-market-icon.png"
+  },
+  "overframe": {
+    "name": "Overframe",
+    "url": "https://overframe.gg",
+    "description": "Build guides for weapons and warframes",
+    "color": "#ff9900",
+    "image_url": "https://example.com/overframe-icon.png"
+  },
+  "semlar": {
+    "name": "Semlar",
+    "url": "https://semlar.com",
+    "description": "Riven trading and stats information",
+    "color": "#00ff00",
+    "image_url": "https://example.com/semlar-icon.png"
+  }
+}
