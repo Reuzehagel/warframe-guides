@@ -9,48 +9,48 @@
   "amp": {
     "name": "Amp",
     "url": "",
-    "description": "Operator amp builds for different purposes\nAmps are player preference. There is no single 'best' for all content.",
+    "description": "Operator amp builds for different purposes\n\n*Amps are player preference. There is no single 'best' for all content.*\n\n**Void Angels:**\n- 1x7/1x6 (if using Magus Melt)\n- Madurai Focus\n- Amp Arcanes: Eternal Eradicate + Eternal Onslaught\n- Operator Arcane: Magus Melt\n\n**Void Cascade:**\n- 1x7/5x7\n- Madurai Focus\n- Amp Arcanes: Eternal Eradicate + Eternal Onslaught\n- Operator Arcanes: Emergence Savior/Magus Lockdown/Magus Cloud\n\n**Last Gasp & General Enemies (Raw damage):**\n- 146 (sniper shot + homing glaive)/546 (3 round burst + homing glaive)/746 (flamethrower + homing glaive)\n- Unairu or Madurai Focus (Unairu scales farther due to armor strip)\n- Amp Arcanes: Eternal Onslaught + Virtuos Strike/Virtuos Tempo\n- For Murmur: Virtuos Surge and Eternal Onslaught with Magus Melt for Radiation\n\n**Viral application:**\n- 646 (Apply Viral with prism, DPS with scaffold)\n- Unairu Focus\n- Amp Arcanes: Virtuous Trojan + Virtuos Ghost/Virtuos Tempo\n- Operator Arcanes: Choice of Emergence Savior/Magus Lockdown/Magus Melt",
     "color": "",
     "image_url": "https://wiki.warframe.com/images/RaplakPrism.png?360b6"
   },
   "arbitrations": {
     "name": "Arbitrations",
-    "url": "",
+    "url": "https://docs.google.com/document/d/14yAA4rv82MVjDJKasm70oL_peegCHPQioDeMGdvf4DM/edit?usp=sharing",
     "description": "High-level endless missions with special modifiers",
     "color": "",
-    "image_url": ""
+    "image_url": "https://wiki.warframe.com/images/ArbitarIconGrey.png?f8712"
   },
   "aya": {
     "name": "Aya",
-    "url": "",
+    "url": "https://wfpedia.com/posts/aya/introduction/basics",
     "description": "Prime part farming during resurgence events",
     "color": "",
-    "image_url": ""
+    "image_url": "https://wiki.warframe.com/images/Aya.png?0542b"
   },
   "disruption": {
     "name": "Disruption",
-    "url": "",
+    "url": "https://www.youtube.com/channel/UCiuxUSqQ06ikvY5gmyzWxHQ/search?query=disruption",
     "description": "Special endless mission type with conduits",
     "color": "",
-    "image_url": ""
+    "image_url": "https://wiki.warframe.com/images/Disruption.png?11b0d"
   },
   "eidolon": {
     "name": "Eidolon",
-    "url": "",
+    "url": "https://eidolon.wfpedia.com/",
     "description": "Hunting Teralyst, Gantulyst and Hydrolyst on Plains of Eidolon",
     "color": "",
-    "image_url": ""
+    "image_url": "https://wiki.warframe.com/images/ArticulaTeralyst.png?55f01"
   },
   "fissure": {
     "name": "Fissure",
-    "url": "",
-    "description": "Void fissure missions for cracking relics",
+    "url": "https://discord.gg/vaultedrelics",
+    "description": "Void fissure missions for cracking relics, after joining goto [#builds](https://discord.com/channels/780376195182493707/1237827996664991836)",
     "color": "",
     "image_url": ""
   },
   "index": {
     "name": "Index",
-    "url": "",
+    "url": "https://docs.google.com/document/d/1fMgfELg_itIih93dbq1MbJanfPwRv1CYvVPZfTFy0cg/edit?usp=sharing",
     "description": "Credit farming on Neptune",
     "color": "",
     "image_url": ""
@@ -78,15 +78,15 @@
   },
   "profit_taker": {
     "name": "Profit-Taker",
-    "url": "",
+    "url": "https://profit-taker.com/",
     "description": "Fighting the Profit-Taker Orb on Orb Vallis",
     "color": "",
     "image_url": ""
   },
   "rathuum": {
-    "name": "Rathuum",
-    "url": "",
-    "description": "Arena combat missions against Grineer executioners",
+    "name": "Endo",
+    "url": "https://wfpedia.com/posts/endo/basics",
+    "description": "Endo farming",
     "color": "",
     "image_url": ""
   },
