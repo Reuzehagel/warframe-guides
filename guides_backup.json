@@ -1,0 +1,100 @@
+{
+  "adaro": {
+    "name": "Adaro",
+    "url": "",
+    "description": "Stealth focus farming on Sedna",
+    "color": "",
+    "image_url": ""
+  },
+  "amp": {
+    "name": "Amp",
+    "url": "",
+    "description": "Operator amp builds for different purposes",
+    "color": "",
+    "image_url": ""
+  },
+  "arbitrations": {
+    "name": "Arbitrations",
+    "url": "",
+    "description": "High-level endless missions with special modifiers",
+    "color": "",
+    "image_url": ""
+  },
+  "aya": {
+    "name": "Aya",
+    "url": "",
+    "description": "Prime part farming during resurgence events",
+    "color": "",
+    "image_url": ""
+  },
+  "disruption": {
+    "name": "Disruption",
+    "url": "",
+    "description": "Special endless mission type with conduits",
+    "color": "",
+    "image_url": ""
+  },
+  "eidolon": {
+    "name": "Eidolon",
+    "url": "",
+    "description": "Hunting Teralyst, Gantulyst and Hydrolyst on Plains of Eidolon",
+    "color": "",
+    "image_url": ""
+  },
+  "fissure": {
+    "name": "Fissure",
+    "url": "",
+    "description": "Void fissure missions for cracking relics",
+    "color": "",
+    "image_url": ""
+  },
+  "index": {
+    "name": "Index",
+    "url": "",
+    "description": "Credit farming on Neptune",
+    "color": "",
+    "image_url": ""
+  },
+  "orphix": {
+    "name": "Orphix",
+    "url": "",
+    "description": "Necramech-only missions fighting Sentient units",
+    "color": "",
+    "image_url": ""
+  },
+  "parazon": {
+    "name": "Parazon",
+    "url": "",
+    "description": "Parazon mod configurations for different purposes",
+    "color": "",
+    "image_url": ""
+  },
+  "plague_star": {
+    "name": "Plague Star",
+    "url": "",
+    "description": "Special event bounties on Plains of Eidolon",
+    "color": "",
+    "image_url": ""
+  },
+  "profit_taker": {
+    "name": "Profit-Taker",
+    "url": "",
+    "description": "Fighting the Profit-Taker Orb on Orb Vallis",
+    "color": "",
+    "image_url": ""
+  },
+  "rathuum": {
+    "name": "Rathuum",
+    "url": "",
+    "description": "Arena combat missions against Grineer executioners",
+    "color": "",
+    "image_url": ""
+  },
+  "void_cascade": {
+    "name": "Void Cascade",
+    "url": "",
+    "description": "Endless void mission type in the Zariman",
+    "color": "",
+    "image_url": ""
+  }
+}
