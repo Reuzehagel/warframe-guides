@@ -96,5 +96,12 @@
     "description": "Endless void mission type in the Zariman",
     "color": "",
     "image_url": ""
+  },
+  "railjack": {
+    "name": "Railjack",
+    "url": "https://docs.google.com/document/d/1ctKSRjQgk58t1a4trlbA_TPaGsCsb9-VI2TKgElTR_0/edit?usp=sharing",
+    "description": "Railjack missions",
+    "color": "",
+    "image_url": ""
   }
 }
